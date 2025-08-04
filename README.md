@@ -5,7 +5,7 @@ The source code for my PICO-8 game, Jeri II, as well as the game's level editor!
 
 [You can play the game on Newgrounds!](https://www.newgrounds.com/portal/view/983235)
 
-[Or check it out on the PICO-8 BBS!]()
+[Or check it out on the PICO-8 BBS!](https://www.lexaloffle.com/bbs/?tid=150728)
 
 ## Included Files
 *jeri2.p8* is the game itself, and *jeri2edit.p8* is the level editor.
