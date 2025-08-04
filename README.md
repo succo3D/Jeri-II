@@ -8,6 +8,8 @@ The source code for my PICO-8 game, Jeri II, as well as the game's level editor!
 [Or check it out on the PICO-8 BBS!](https://www.lexaloffle.com/bbs/?tid=150728)
 
 ## Included Files
+You need PICO-8 to run these p8 files. [You can buy it here.](https://www.lexaloffle.com/pico-8.php)
+
 *jeri2.p8* is the game itself, and *jeri2edit.p8* is the level editor.
 
 *jeri2_enemy_data.p8l* is an extra lua file that contains a packed table with the enemy placements for each level, as well as the most recently edited level number.
